@@ -1,0 +1,8 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix uni: <http://uniovi.es/> .
+@prefix dc:  <http://purl.org/dc/elements/1.1/> .
+
+uni:quimica    dc:creator    uni:ana .
+uni:quimica    dc:creator    uni:luis .
+uni:ana        rdf:type      uni:Profesor .
+uni:luis       rdf:type      uni:Becario .
