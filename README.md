@@ -2,6 +2,7 @@
 
 This repo contains information about the Semantic Web Course
 
-Authors: 
+Authors:
+
 - [Jose Emilio Labra Gayo](https://labra.weso.es/)
-- [Daniel Fernández Álvarez](http://danifdez.weso.es/)
+- [Daniel Fernández Álvarez](https://portalinvestigacion.uniovi.es/investigadores/219680/detalle)
