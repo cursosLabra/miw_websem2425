@@ -3,6 +3,7 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 # Autores
 ex:author1 a schema:Person ;
@@ -11,7 +12,7 @@ ex:author1 a schema:Person ;
     schema:nationality "USA" .
 
 ex:author2 a schema:Person ;
-    foaf:name "Carlos García" ;
+    foaf:name "Carlos Ramos" ;
     schema:birthDate "1975-02-22"^^xsd:date ;
     schema:nationality "Spain" .
 
